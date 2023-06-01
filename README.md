@@ -12,8 +12,5 @@ Sonra klasörün içerisinde bir ```powershell``` ya da ```cmd``` penceresi aç.
 ```npm install``` yazarak tüm modülleri kur.
 Kurulum bittikten sonra ```npm start``` yaz ve botu başlat.
 
-## 🔱 İletişim 
+## 🔱 Report 
 * [Discord Profilim (Papaz)](https://discord.com/users/827546466436120616)
-
-## 🔱 **Report**
-**Papaz#9999 Hata Alarısan bana ulaş yardım ederim.**
